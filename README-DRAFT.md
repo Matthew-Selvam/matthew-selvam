@@ -97,6 +97,16 @@ A growing collection of tools, experiments and open-source work.
 
 ---
 
+## 04 / AI USAGE
+
+<div align="center">
+
+[![matthewselvam's AI token usage](https://whoburnedmore.com/api/embeds/matthewselvam?style=badge&theme=dark&accent=violet&period=all)](https://whoburnedmore.com/u/matthewselvam?utm_source=github&utm_medium=profile&utm_campaign=usage-card)
+
+</div>
+
+---
+
 <div align="center">
 
 <sub><code>MATTHEW SELVAM</code> &nbsp; · &nbsp; <code>ALWAYS BUILDING.</code></sub>
