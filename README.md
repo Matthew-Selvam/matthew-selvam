@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050608,55:101820,100:0A1B2B&text=MATTHEW%20SELVAM&fontColor=F4F7FB&fontSize=46&fontAlignY=42&desc=Building%20at%20the%20intersection%20of%20systems%2C%20sport%20%26%20design.&descAlignY=63&descSize=13&animation=fadeIn" width="100%" alt="Matthew Selvam — building at the intersection of systems, sport and design" />
+<img src="./assets/profile-header.svg" width="100%" alt="Matthew Selvam — monochrome profile header with restrained blue accents" />
 
 <br/>
 
@@ -111,6 +111,5 @@ A growing collection of tools, experiments and open-source work.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:0A1B2B,55:101820,100:050608" width="100%" alt="" />
 
 </div>
