@@ -18,6 +18,21 @@
 <br/><br/>
 
 <sub><code>DEVELOPER</code> &nbsp; / &nbsp; <code>BUILDER</code> &nbsp; / &nbsp; <code>ATHLETE</code> &nbsp; / &nbsp; <code>CREATIVE</code></sub>
+<div align="center">
+
+<pre>
+       .-.                                      .-.
+    .-(   )-.                               .-(   )-.
+   (  ( * )  )                             (  ( * )  )
+    '-(   )-'                               '-(   )-'
+        |                                       |
+     \\  |  /                                 \\  |  /
+      \\ | /                                   \\ | /
+       \\|/                                     \\|/
+        |                                       |
+</pre>
+
+</div>
 
 </div>
 
@@ -88,18 +103,10 @@ A growing collection of tools, experiments and open-source work.
 
 <div align="center">
 
-<!-- GitHub's own contribution graph retains the native green activity palette. -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matthew-Selvam&bg_color=050608&color=E8EDF4&line=4C9AFF&point=FFFFFF&area=true&area_color=173B2A&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" width="100%" alt="Contribution activity timeline" />
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=Matthew-Selvam&show_icons=true&hide_border=true&bg_color=050608&title_color=E8EDF4&text_color=AAB4C0&icon_color=4C9AFF&ring_color=4C9AFF&include_all_commits=true" height="155" alt="GitHub statistics" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Selvam&layout=compact&hide_border=true&bg_color=050608&title_color=E8EDF4&text_color=AAB4C0" height="155" alt="Most used languages" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Matthew-Selvam&hide_border=true&background=050608&ring=4C9AFF&fire=4C9AFF&currStreakLabel=E8EDF4&sideLabels=AAB4C0&dates=788391&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub contribution streak" />
 
 </div>
 
